@@ -1,6 +1,6 @@
 # alura3
 Boas vindas ao meu perfil 💙💙
-Meu nome é Allyson Azevedk
+Meu nome é Allyson Azevedo
 
 Estou estudando na Alura
 Estou me desenvolvendo na linguagem JavaScript
